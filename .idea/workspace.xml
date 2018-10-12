@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="898e01d7-734d-4e3a-8d19-6e618346a3a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/44B4172A-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/5D442ACD-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/A6294382-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/A8D6CAD6-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/AEF19488-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/E79CE4FB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/E79CE4FB-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/F6FD1BF7-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/FAD185CD-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/FCC414AD/sources/s-C183152A/lock_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_A-Z.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/234D1575" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/655D9D3C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/8DC4110B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/C51D4319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/D2B20C97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/INDEX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/s-2BBA9E8/lock_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rproj.user/shared/notebooks/paths" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,19 +89,21 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="R" value="2" />
           <entry key="Rhistory" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="4" />
           <entry key="R" value="2" />
         </counts>
@@ -126,14 +129,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="e#57#75#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -161,6 +173,7 @@
         <option value="$PROJECT_DIR$/Part_1_Data_Preprocessing/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.R" />
         <option value="$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -321,8 +334,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="791" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,7 +358,7 @@
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.4806867" weight="0.28540772" />
       <window_info anchor="right" id="R Graphics" order="4" sideWeight="0.4946695" weight="0.3297568" />
       <window_info anchor="right" id="R Packages" order="5" sideWeight="0.49253732" weight="0.3297568" />
-      <window_info anchor="right" x="0" y="0" width="310" height="591" id="Documentation" order="6" sideWeight="0.5193133" side_tool="true" weight="0.28540772" />
+      <window_info anchor="right" x="0" y="0" width="310" height="591" id="Documentation" order="6" sideWeight="0.5193133" side_tool="true" visible="true" weight="0.28540772" />
       <window_info anchor="right" id="Database" order="7" sideWeight="0.4968017" weight="0.3297568" />
     </layout>
   </component>
@@ -355,13 +369,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///anaconda3/envs/DjangoEnv/lib/python3.6/site-packages/sklearn/preprocessing/imputation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="297" column="8" selection-start-line="297" selection-start-column="8" selection-end-line="297" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///anaconda3/envs/DjangoEnv/lib/python3.6/site-packages/sklearn/preprocessing/imputation.py" />
     <entry file="file://$PROJECT_DIR$/.bashrc" />
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py" />
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.R" />
@@ -369,29 +377,22 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.R" />
-    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/data_preprocessing_template.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/data_preprocessing_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/missing_data.py">
+    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/data_preprocessing_template.R" />
+    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/categorical_data.py" />
+    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/data_preprocessing_template.py" />
+    <entry file="file://$PROJECT_DIR$/Data_Preprocessing/missing_data.py" />
+    <entry file="file://$PROJECT_DIR$/.Rhistory">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.R">
       <provider selected="true" editor-type-id="text-editor">
@@ -400,16 +401,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.Rhistory">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data-Preprocessing/data_preprocessing_template.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#57#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
