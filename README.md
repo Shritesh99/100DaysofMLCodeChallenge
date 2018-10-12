@@ -1,5 +1,7 @@
 # 100 Days of ML Code Challenge
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+### Day 0 :- Gather all the tools for Data Science.
+**Today's Work** :- Today I have installed all the tools and packages required for this challenge.
 ### Day 1 :- Data Preprocessing
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/tree/16089b74f029151e98ba90ed54f92c52ed8d9643).
 **Today's Work** :- I have completed the most crucial Data Preprocessing step on the following [data](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Data-Preprocessing/Data.csv).
