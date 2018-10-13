@@ -16,8 +16,11 @@
 **Today's work**:- I have applied Simple Linear Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/Salary_Data.csv) and obtained following graphs for training and test prediction.
 
 <div float="left">
+  
   <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTraining.png" width="400" hieght="500"/>
+  
   <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTest.png" width="400"hieght="500 />
+  
 </div>
 
 <p align="center">
@@ -31,3 +34,13 @@
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%203.jpg?raw=true">
 </p>
+
+### Day 4 :- Polynomial Regression
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/89329b184190fe5648aff367c6c88509a1554605).
+**Today's work**:- I have applied Polynomial Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Polynomial-Regression/Position_Salaries.csv) to predict weather a employee is telling truth or bluff about his salary and got the following graphs for Linear and Polynomial Regression.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Polynomial-Regression/Truth%20or%20Bluff(Linear%20Regression).png" width="416" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Polynomial-Regression/Truth%20or%20Bluff(Polynomial%20Regression).png" width="400" />
+</div>
+
