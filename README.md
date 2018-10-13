@@ -3,15 +3,15 @@
 ### Day 0 :- Gather all the tools for Data Science.
 **Today's Work** :- Today I have installed all the tools and packages required for this challenge.
 ### Day 1 :- Data Preprocessing
-#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/tree/16089b74f029151e98ba90ed54f92c52ed8d9643).
-**Today's Work** :- I have completed the most crucial Data Preprocessing step on the following [data](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Data-Preprocessing/Data.csv).
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/16089b74f029151e98ba90ed54f92c52ed8d9643).
+**Today's Work** :- I have completed the most crucial Data Preprocessing step on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Data-Preprocessing/Data.csv).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Redme-images/Day%201.jpg">
 </p>
 
 ### Day 2 :- Simple Linear Regression
-#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/tree/e2894b2ce2d37c4dbd3aa64e0563a48c29936cfb).
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e2894b2ce2d37c4dbd3aa64e0563a48c29936cfb).
 
 **Todays work**:- I have applied Simple Linear Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/Salary_Data.csv) and obtained following graphs for training and test prediction.
 
@@ -24,3 +24,10 @@
   <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Redme-images/Day%202.jpg">
 </p>
 
+### Day 3 :- Multiple Linear Regression
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/a2fc8b097e0705e7ee2537d54722ca71040801d6).
+**Todays work**:- I have applied Multiple Linear Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Multiple-Linear-Regression/50_Startups.csv) and also applied Backward Elimintion method to get the best model.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%203.jpg?raw=true">
+</p>
