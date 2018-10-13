@@ -41,3 +41,10 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Polynomial-Regression/Truth%20or%20Bluff(Polynomial%20Regression).png" width="400" />
 </div>
 
+### Day 5 :- Support Vector Regression(SVR)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/347de1dffef96e3a4116dcebe3d5d7000d63ba29).
+**Today's work**:- I have applied Support Vector Regression(SVR) on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Polynomial-Regression/Position_Salaries.csv) to predict weather a employee is telling truth or bluff about his salary and got the following graphs for Linear and Polynomial Regression.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Support-Vector-Regression(SVR)/Truth%20or%20Bluff(SVR).png">
+</p>
