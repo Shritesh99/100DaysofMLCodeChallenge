@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="898e01d7-734d-4e3a-8d19-6e618346a3a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine_Learning_A-Z.Rproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/234D1575" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/655D9D3C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/8DC4110B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/C51D4319" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/D2B20C97" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/prop/INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/FCC414AD/sources/s-2BBA9E8/lock_file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rproj.user/shared/notebooks/paths" beforeDir="false" />
-    </list>
+    <list default="true" id="898e01d7-734d-4e3a-8d19-6e618346a3a2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +75,7 @@
     <session id="1526180969">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -112,13 +100,14 @@
         <counts>
           <entry key="R" value="10" />
           <entry key="R Console" value="33" />
+          <entry key="gitignore" value="10" />
           <entry key="py" value="122" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="Python" value="122" />
           <entry key="R" value="43" />
         </counts>
@@ -144,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="75">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -201,6 +190,16 @@
             <path>
               <item name="Machine_Learning_A-Z" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine_Learning_A-Z" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_Learning_A-Z" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_Learning_A-Z" type="462c0819:PsiDirectoryNode" />
+              <item name="Dimensionality-Reduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_Learning_A-Z" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_Learning_A-Z" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +333,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="791" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -403,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
