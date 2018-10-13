@@ -16,8 +16,8 @@
 **Todays work**:- I have applied Simple Linear Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/Salary_Data.csv) and obtained following graphs for training and test prediction.
 
 <div float="left">
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTraining.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTest.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTraining.png" width="400" hieght="500"/>
+  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTest.png" width="400"hieght="500 />
 </div>
 
 <p align="center">
