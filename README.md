@@ -59,3 +59,16 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2023.jpg"/>
 </p>
   
+### Day 6 :- Random Forest Regression
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/775034a66985b63581eb21930e433d04ac295bfa).
+**Today's work**:- I have applied Random Forest Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) to predict weather a employee is telling truth or bluff about his salary and got the following graphs for Decision Tree 10, 100 and 500 Decision Trees.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Truth%20of%20Bluff(Random%20Forest%20Regresstion)%2010.png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Truth%20of%20Bluff(Random%20Forest%20Regresstion)%20100.png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Truth%20of%20Bluff(Random%20Forest%20Regresstion)%20500.png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg?raw=true"/>
+</p>
