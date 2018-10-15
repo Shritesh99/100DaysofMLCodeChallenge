@@ -48,3 +48,14 @@
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Support-Vector-Regression(SVR)/Truth%20or%20Bluff(SVR).png">
 </p>
+
+### Day 6 :- Decision Tree Regression
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/89756f61dac0659300aabc3f2ab856b55d1ba37e).
+**Today's work**:- I have applied Decision Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Position_Salaries.csv) to predict weather a employee is telling truth or bluff about his salary and got the following graph for Decision Tree Regression and and also ploted the Tree.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Truth%20or%20Bluff(Decision%20Tree%20Reqression).png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Truth%20or%20Bluff(Decision%20Tree).png" width="568" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2023.jpg"/>
+</p>
+  
