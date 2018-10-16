@@ -75,3 +75,15 @@
 
 ### Day 7 :- R square and Estimated R square
 **Today's work**:- I have learnt about the R square and Estimated R square and also find it on the the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) by various studied Algorithms till now. Also studied about the pros and cons of various algorithms studied till now.
+
+### Day 8 :- Logistic Regression
+**Today's work**:- I have applied Logistic Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Logistic_Regression/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Logistic_Regression/Logistic%20Regression%20(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Logistic_Regression/Logistic%20Regression%20(Test%20Set).png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%204.jpg"/>
+</p>
