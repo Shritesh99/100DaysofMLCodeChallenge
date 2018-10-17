@@ -88,3 +88,16 @@
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%204.jpg"/>
 </p>
+
+### Day 9 :- K Nearest Neighbours(K-NN)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ec8b6346d7cd26a0409e7f621fe57208bef7f008)
+**Today's work**:- I have applied K-NN Classifier on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/K-Nearest_Neighbors(K-NN)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/K-Nearest_Neighbors(K-NN)/K-NN(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/K-Nearest_Neighbors(K-NN)/K-NN(Training%20Set).png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%207.jpg"/>
+</p>
