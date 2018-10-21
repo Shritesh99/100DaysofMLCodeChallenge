@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM)
+# Kernal Support Vector Machine (Kernal SVM)
 
 # Importing the libraries
 import numpy as np
@@ -22,7 +22,7 @@ X_test = sc.transform(X_test)
 
 # Fitting SVM to the Training set
 from sklearn.svm import SVC
-classifier = SVC(kernel = 'linear', random_state = 0)
+classifier = SVC(kernel = 'rbf', random_state = 0)
 classifier.fit(X_train, y_train)
 
 # Predicting the Test set results
