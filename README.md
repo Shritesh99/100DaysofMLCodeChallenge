@@ -1,5 +1,11 @@
 # 100 Days of ML Code Challenge
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/ML_cheatsheet-01.png">
+</p>
+
+
 ### Day 0 :- Gather all the tools for Data Science.
 **Today's Work** :- Today I have installed all the tools and packages required for this challenge.
 ### Day 1 :- Data Preprocessing
@@ -121,3 +127,40 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Kernel_SVM/Kernal%20SVM(Training%20Set).png" width="400" />
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Kernel_SVM/Kernal%20SVM(Test%20Set).png" width="400" />
 </div>
+
+### Day 12 :- Naive Bayes
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/294409a6d3f8460b5d0920f36f44f9a627637a41)
+**Today's work**:- Today I have learnt about the Bayes Theoram and its application. Then, I have applied Naive-Bayes algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Naive_Bayes/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Naive_Bayes/Naive-bayes(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Naive_Bayes/Naive-Bayes(Test%20Set).png" width="400" />
+</div>
+
+### Day 13 :- Decision Tree Classification
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/0df34c5e0c817c1ad06f88ce4edc5dcba3c5e95d)
+**Today's work**:- I have applied Decision Tree Classification on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Decision_Tree_Classification/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets and I also visulaized it by ploting an actuall tree.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Decision_Tree_Classification/DTC%20(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Decision_Tree_Classification/DTC%20(Test%20Set).png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Decision_Tree_Classification/DTC%20Visualised.png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2023.jpg"/>
+</p>
+
+### Day 14 :- Random Forest Classification
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/be57000803081c7a60beb6af9275f51d3c917e3a)
+**Today's work**:- I have applied Random Forest Classification on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets. Then I compared the results with changing the values of number of trees and obtained the following graph.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/RFC%20(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/RFC%20(Test%20Set).png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/Classifier%20performance%20with%20Number%20of%20trees.png" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg"/>
+</p>
