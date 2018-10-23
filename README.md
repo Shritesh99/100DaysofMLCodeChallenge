@@ -56,7 +56,6 @@
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Truth%20or%20Bluff(Decision%20Tree%20Reqression).png"/>
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Truth%20or%20Bluff(Decision%20Tree).png" width="568" />
-  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2023.jpg"/>
 </p>
   
 ### Day 6 :- Random Forest Regression
@@ -70,7 +69,6 @@
 
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Truth%20of%20Bluff(Random%20Forest%20Regresstion)%20500.png"/>
-  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg"/>
 </p>
 
 ### Day 7 :- R square and Estimated R square
@@ -101,3 +99,25 @@
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%207.jpg"/>
 </p>
+
+### Day 10 :- Support Vector Machine(SVM)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/3e1ec9640135d5170ed5a76729bac68109e57eb0)
+**Today's work**:- I have applied Linear Support Vector Machine(SVM) on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/SVM(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/SVM(Test%20Set).png" width="400" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2012.jpg"/>
+</p>
+
+### Day 11 :- Kernal Support Vector Machine(K-SVM)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/fd713e75a450d9dcd534f15bb48ac10c182e629d)
+**Today's work**:- I have applied Kernal Support Vector Machine(K-SVM) on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
+
+<div float="left">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Kernel_SVM/Kernal%20SVM(Training%20Set).png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Kernel_SVM/Kernal%20SVM(Test%20Set).png" width="400" />
+</div>
