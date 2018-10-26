@@ -164,3 +164,6 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/Classifier%20performance%20with%20Number%20of%20trees.png" />
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg"/>
 </p>
+
+### Day 14 :- Cumuative Accuracy Paradox Curve(CAP Curve)
+**Today's work**:- Today, I studied about the Accuraccy Paradox while on the Confusion Matrix and also analyse using CAP Curve analysis method.I also find various pros and cons of various classification algorithms.
