@@ -165,5 +165,31 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg"/>
 </p>
 
-### Day 14 :- Cumuative Accuracy Paradox Curve(CAP Curve)
-**Today's work**:- Today, I studied about the Accuraccy Paradox while on the Confusion Matrix and also analyse using CAP Curve analysis method.I also find various pros and cons of various classification algorithms.
+### Day 15 :- Cumuative Accuracy Paradox Curve(CAP Curve)
+**Today's work**:- Today, I studied about the Accuraccy Paradox of the Confusion Matrix and also analyse it using CAP Curve analysis method for getting the best possible model in various classification algorithms. I also find various pros and cons of various classification algorithms.
+
+### Day 16 :- K-Means Clustering
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e4481972ec0ce164c41eeb2a789f9e2668bb2677)
+**Today's work**:- I have applied K-Means Clustering algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/Mall_Customers.csv) to predict spending score of person based on their anual income in a mall by making clusters. I first aplied the Elbow Method to obtain the threshhold value of K as shown in following graph in python and R, then plotted the curve based on value of k obtained and plotted the following graphs in Python and R.
+
+| Python  | R |
+| :--: | :--: |
+|  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/The%20Elbow%20Method(K-MeansClusturing).png" width="400"/> |  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/The%20Elbow%20Method(R).png" width="400"/>  |
+|  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/Clustor%20of%20Clients.png" width="400"/> |  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/Cluster%20of%20Customer.png" width="400"/>  |
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2043.jpg"/>
+</p>
+
+### Day 17 :- Hierarchical-Clustering
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e29b2be7943c3554294424683aff606ade83c1c2)
+**Today's work**:- I have applied Hierarchical-Clustering algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/Mall_Customers.csv) to predict spending score of person based on their anual income in a mall by making clusters. I first find out the Dendogram of the dataset to obtain the threshhold value of K as shown in following Dendogram in python and R, then plotted the curve based on value of k obtained and plotted the following graphs in Python and R.
+
+| Python  | R |
+| :--: | :--: |
+|  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/HC(Python).png" width="400"/> |  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/HC(R).png" width="400"/>  |
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/Dendrogram.png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2054.jpg"/>
+</p>
