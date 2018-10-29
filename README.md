@@ -64,7 +64,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Decision-Tree-Regression/Truth%20or%20Bluff(Decision%20Tree).png" width="568" />
 </p>
   
-### Day 6 :- Random Forest Regression
+### Day 7 :- Random Forest Regression
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/775034a66985b63581eb21930e433d04ac295bfa).
 **Today's work**:- I have applied Random Forest Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) to predict weather a employee is telling truth or bluff about his salary and got the following graphs for Decision Tree 10, 100 and 500 Decision Trees.
 
@@ -77,10 +77,10 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Truth%20of%20Bluff(Random%20Forest%20Regresstion)%20500.png"/>
 </p>
 
-### Day 7 :- R square and Estimated R square
+### Day 8 :- R square and Estimated R square
 **Today's work**:- I have learnt about the R square and Estimated R square and also find it on the the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) by various studied Algorithms till now. Also studied about the pros and cons of various algorithms studied till now.
 
-### Day 8 :- Logistic Regression
+### Day 9 :- Logistic Regression
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/739beb74a029a693f2e110f2951ed2a182f743bd)
 **Today's work**:- I have applied Logistic Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Logistic_Regression/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
 
@@ -93,7 +93,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%204.jpg"/>
 </p>
 
-### Day 9 :- K Nearest Neighbours(K-NN)
+### Day 10 :- K Nearest Neighbours(K-NN)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ec8b6346d7cd26a0409e7f621fe57208bef7f008)
 **Today's work**:- I have applied K-NN Classifier on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/K-Nearest_Neighbors(K-NN)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
 
@@ -106,7 +106,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%207.jpg"/>
 </p>
 
-### Day 10 :- Support Vector Machine(SVM)
+### Day 11 :- Support Vector Machine(SVM)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/3e1ec9640135d5170ed5a76729bac68109e57eb0)
 **Today's work**:- I have applied Linear Support Vector Machine(SVM) on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
 
@@ -119,7 +119,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2012.jpg"/>
 </p>
 
-### Day 11 :- Kernal Support Vector Machine(K-SVM)
+### Day 12 :- Kernal Support Vector Machine(K-SVM)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/fd713e75a450d9dcd534f15bb48ac10c182e629d)
 **Today's work**:- I have applied Kernal Support Vector Machine(K-SVM) on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Support_Vector_Machine(SVM)/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
 
@@ -128,7 +128,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Kernel_SVM/Kernal%20SVM(Test%20Set).png" width="400" />
 </div>
 
-### Day 12 :- Naive Bayes
+### Day 13 :- Naive Bayes
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/294409a6d3f8460b5d0920f36f44f9a627637a41)
 **Today's work**:- Today I have learnt about the Bayes Theoram and its application. Then, I have applied Naive-Bayes algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Naive_Bayes/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets.
 
@@ -137,7 +137,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Naive_Bayes/Naive-Bayes(Test%20Set).png" width="400" />
 </div>
 
-### Day 13 :- Decision Tree Classification
+### Day 14 :- Decision Tree Classification
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/0df34c5e0c817c1ad06f88ce4edc5dcba3c5e95d)
 **Today's work**:- I have applied Decision Tree Classification on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Decision_Tree_Classification/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets and I also visulaized it by ploting an actuall tree.
 
@@ -151,7 +151,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2023.jpg"/>
 </p>
 
-### Day 14 :- Random Forest Classification
+### Day 15 :- Random Forest Classification
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/be57000803081c7a60beb6af9275f51d3c917e3a)
 **Today's work**:- I have applied Random Forest Classification on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Classification/Random_Forest_Classification/Social_Network_Ads.csv) to predict weather a person buy's a SUV car for a company and obtained the following graphs for training and test data sets. Then I compared the results with changing the values of number of trees and obtained the following graph.
 
@@ -165,10 +165,10 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2033.jpg"/>
 </p>
 
-### Day 15 :- Cumuative Accuracy Paradox Curve(CAP Curve)
+### Day 16 :- Cumuative Accuracy Paradox Curve(CAP Curve)
 **Today's work**:- Today, I studied about the Accuraccy Paradox of the Confusion Matrix and also analyse it using CAP Curve analysis method for getting the best possible model in various classification algorithms. I also find various pros and cons of various classification algorithms.
 
-### Day 16 :- K-Means Clustering
+### Day 17 :- K-Means Clustering
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e4481972ec0ce164c41eeb2a789f9e2668bb2677)
 **Today's work**:- I have applied K-Means Clustering algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/K-Means_Clustering/Mall_Customers.csv) to predict spending score of person based on their anual income in a mall by making clusters. I first aplied the Elbow Method to obtain the threshhold value of K as shown in following graph in python and R, then plotted the curve based on value of k obtained and plotted the following graphs in Python and R.
 
@@ -181,7 +181,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2043.jpg"/>
 </p>
 
-### Day 17 :- Hierarchical-Clustering
+### Day 18 :- Hierarchical-Clustering
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e29b2be7943c3554294424683aff606ade83c1c2)
 **Today's work**:- I have applied Hierarchical-Clustering algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/Mall_Customers.csv) to predict spending score of person based on their anual income in a mall by making clusters. I first find out the Dendogram of the dataset to obtain the threshhold value of K as shown in following Dendogram in python and R, then plotted the curve based on value of k obtained and plotted the following graphs in Python and R.
 
