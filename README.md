@@ -193,3 +193,11 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Clustering/Hierarchical-Clustering/Dendrogram.png"/>
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2054.jpg"/>
 </p>
+
+### Day 19 :- Apiori Association Rule Learning Algorithm
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fcdcba2ad6011572538ad565d709c952fffbeb9)
+**Today's work**:- I have applied Apiori Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Apriori/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the revenue.
+
+### Day 20 :- Eclat Association Rule Learning Algorithm
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fcdcba2ad6011572538ad565d709c952fffbeb9)
+**Today's work**:- I have applied Eclat Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Apriori/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the sale.
