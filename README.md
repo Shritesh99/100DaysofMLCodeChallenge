@@ -199,5 +199,5 @@
 **Today's work**:- I have applied Apiori Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Apriori/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the revenue.
 
 ### Day 20 :- Eclat Association Rule Learning Algorithm
-#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fcdcba2ad6011572538ad565d709c952fffbeb9)
-**Today's work**:- I have applied Eclat Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Apriori/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the sale.
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/78328448b5d7a0fd556e163d2f3717c46cdd28c7)
+**Today's work**:- I have applied Eclat Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Eclat/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the sale.
