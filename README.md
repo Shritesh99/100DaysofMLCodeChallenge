@@ -201,3 +201,12 @@
 ### Day 20 :- Eclat Association Rule Learning Algorithm
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/78328448b5d7a0fd556e163d2f3717c46cdd28c7)
 **Today's work**:- I have applied Eclat Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Eclat/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the sale.
+
+### Day 21 :- Upper Confidence Bound (UCB)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/2c0df4850c33303c778efdb634cf9c336919fb47)
+**Today's work**:- I have applied Upper Confidence Bound (UCB) Reinforcement Learning Algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/Ads_CTR_Optimisation.csv) to pridict the best Ad for a car company based on their performance in different social media. It was done by giving 1 reward for if the user interacted with the Ad and 0 if he does't. I obtained the following Histogram based on the prediction.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/Ads%20Histogram.png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/UCB_Algorithm_Slide.png"/>
+</p>
