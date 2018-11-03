@@ -210,3 +210,12 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/Ads%20Histogram.png"/>
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/UCB_Algorithm_Slide.png"/>
 </p>
+
+### Day 22 :- Thompson Sampling
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/21cb8ca49de842a2505ae06acf9dc676ec22c20d)
+**Today's work**:- I have applied Thompson Sampling Reinforcement Learning Algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Ads_CTR_Optimisation.csv) to pridict the best Ad for a car company based on their performance in different social media. It was done by giving 1 reward for if the user interacted with the Ad and 0 if he does't. I obtained the following Histogram based on the prediction.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Ads%20Histogram.png"/>
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Thompson_Sampling_Slide.png"/>
+</p>
