@@ -219,3 +219,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Ads%20Histogram.png"/>
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Thompson_Sampling_Slide.png"/>
 </p>
+
+### Day 23 :- Natural Language Processing
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/feac237817741b08fbf7e775abf2c857d5470671)
+**Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Natural-Language-Processing/Restaurant_Reviews.tsv) for getting the best sparse matrix for pridicting weather the customer likes the food in a restaurant based on their reviews. I first removed the unnecessory words using NLP then obtained a sparse matrix of maximum 1500 features. I then, applied the Naive Bayes Classification algorithm and Random Forest Classification algorithm to pridict weather the customer likes the food or not.
