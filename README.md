@@ -223,3 +223,7 @@
 ### Day 23 :- Natural Language Processing
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/feac237817741b08fbf7e775abf2c857d5470671)
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Natural-Language-Processing/Restaurant_Reviews.tsv) for getting the best sparse matrix for pridicting weather the customer likes the food in a restaurant based on their reviews. I first removed the unnecessory words using NLP then obtained a sparse matrix of maximum 1500 features. I then, applied the Naive Bayes Classification algorithm and Random Forest Classification algorithm to pridict weather the customer likes the food or not.
+
+### Day 24 :- Artificial Neural Networks
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
+**Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
