@@ -236,6 +236,14 @@
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ce1a923da91dc9b547ef09878f829ceb4413efb8)
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Kernel_PCA/Social_Network_Ads.csv) to reduce the dataset to lesser no of fetures based on Kernal PCA of Gaussian Kernal. Then, I applied Logistic Regression to pridict the weather a person buy's a SUV car for a company.
 
+### Day 27 :- K-Fold Cross Validations
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fa5fac9777818f5d0cf6941c15314f4f3e3fd46)
+**Today's work**:- I have Applied K-Fold Cross Validations Technique on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for dividing the dataset into 10 parts to get the best model and got an average accuraccy of 91 percent.
+
+### Day 28 :- Grid Search
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/cd46a10b0c494cd05f816ee678335dce2427f540)
+**Today's work**:- I have Applied Grid Search Algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for getting the best model. I first applied linear kernal with penalities 1, 10, 100, 1000 then applied rbf kernal with penalities 1, 10, 100, 1000 and got an average accuraccy of 90 percent.
+
 ### Day 29 :- Artificial Neural Networks
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
 **Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
