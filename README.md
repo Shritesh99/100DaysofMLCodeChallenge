@@ -224,10 +224,22 @@
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/feac237817741b08fbf7e775abf2c857d5470671)
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Natural-Language-Processing/Restaurant_Reviews.tsv) for getting the best sparse matrix for pridicting weather the customer likes the food in a restaurant based on their reviews. I first removed the unnecessory words using NLP then obtained a sparse matrix of maximum 1500 features. I then, applied the Naive Bayes Classification algorithm and Random Forest Classification algorithm to pridict weather the customer likes the food or not.
 
-### Day 24 :- Artificial Neural Networks
+### Day 24 :- Principal Component Analysis (PCA)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/a81c9cd007cf96dfc354f4851325572b72742034)
+**Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Principal_Component_Analysis(PCA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Principal Component Analysis Method which works on varience of feture. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
+
+### Day 25 :- Linear Discriminant Analysis (LDA)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/915391fad887f3fba133d5030545bc415f70aa82)
+**Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Linear_Discriminant_Analysis(LDA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Linear Discriminant Analysis Method. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
+
+### Day 26 :- Kernal PCA
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ce1a923da91dc9b547ef09878f829ceb4413efb8)
+**Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Kernel_PCA/Social_Network_Ads.csv) to reduce the dataset to lesser no of fetures based on Kernal PCA of Gaussian Kernal. Then, I applied Logistic Regression to pridict the weather a person buy's a SUV car for a company.
+
+### Day 29 :- Artificial Neural Networks
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
 **Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
 
-### Day 25 :- Convolutional Neural Networks(CNN)
+### Day 30 :- Convolutional Neural Networks(CNN)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/930b281bfc8948f5bdaf7e0c2ea15815cc94bce1)
 **Today's work**:- I have created Convolutional Neural Network for predicting weather the image is of cat or dog using 5000 images of both(4000 training and 1000 test) and got an Accuracy of 85 percent. I first applied the convolution operation with ReLU as activation function on each image then, applied pooling step and then flatterened the result and fed it into the Neural Network and obtained the above prediction successfully.
