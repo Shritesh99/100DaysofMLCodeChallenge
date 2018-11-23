@@ -13,7 +13,7 @@
 **Today's Work** :- I have completed the most crucial Data Preprocessing step on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Data-Preprocessing/Data.csv).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Redme-images/Day%201.jpg">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%201.jpg">
 </p>
 
 ### Day 2 :- Simple Linear Regression
@@ -22,12 +22,12 @@
 **Today's work**:- I have applied Simple Linear Regression on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/Salary_Data.csv) and obtained following graphs for training and test prediction.
 
 <div float="left">
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTraining.png" width="400" />
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTest.png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTraining.png" width="400" />
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Simple-Linear-Regression/SalaryvsExperienceTest.png" width="400" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shritesh99/100DaysofMLCodeChallenge/master/Redme-images/Day%202.jpg">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%202.jpg">
 </p>
 
 ### Day 3 :- Multiple Linear Regression
@@ -255,3 +255,11 @@
 ### Day 31 :- Convolutional Neural Networks(CNN)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/930b281bfc8948f5bdaf7e0c2ea15815cc94bce1)
 **Today's work**:- I have created Convolutional Neural Network for predicting weather the image is of cat or dog using 5000 images of both(4000 training and 1000 test) and got an Accuracy of 85 percent. I first applied the convolution operation with ReLU as activation function on each image then, applied pooling step and then flatterened the result and fed it into the Neural Network and obtained the above prediction successfully.
+
+### Day 31 :- Recurrent Neural Networks(CNN)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4cf45f44910502ee2534cff80db01a56797cc5ff)
+**Today's work**:- I have created Recurrent Neural Network for predicting weather the google stock price of 2017 using previous 3 months data to pridict next day's stock price. I first applied Sequential Kreas model with 50 inputs neurons then 3 hidden layers of 50 neurons each and finally one output layer of one neuron , finally obtained the following graph.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Recurrent_Neural_Networks(RNN)/stock%20prediction.png"/>
+</p>  
