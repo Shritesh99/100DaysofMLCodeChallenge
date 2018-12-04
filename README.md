@@ -272,7 +272,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
 </p>
 
-### Day 33 :- Going Supervised to Unsupervised Learning
+### Day 33 :- Going from Supervised to Unsupervised Learning
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/1c2e7bc6b2d0efbb2259803110fdfc4389a5dd00)
 **Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when it applies for a cridit card application. I use a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) and obtained the following Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
 
