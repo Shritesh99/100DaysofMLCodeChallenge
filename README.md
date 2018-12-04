@@ -262,4 +262,13 @@
 
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Recurrent_Neural_Networks(RNN)/stock%20prediction.png"/>
-</p>  
+</p>
+
+### Day 32 :- Self Organizing Maps (SOM)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e7b6013113d267beee1e9d5143f06bdeb276796e)
+**Today's work**:- I have created Self Organizing Maps (SOM) for predicting weather on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) the for predicting weather the user is fraud or not when it applies for a cridit card. I use a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) and obtained the following Self Organizing Map.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
+</p>
+
