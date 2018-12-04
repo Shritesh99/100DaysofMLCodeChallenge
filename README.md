@@ -5,7 +5,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/ML_cheatsheet-01.png">
 </p>
 
-
+## Machine Learning
 ### Day 0 :- Gather all the tools for Data Science.
 **Today's Work** :- Today I have installed all the tools and packages required for this challenge.
 ### Day 1 :- Data Preprocessing
@@ -248,6 +248,7 @@
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/70b8650109a62d26fad7f5565b776b638bc5bea8)
 **Today's work**:- I have applied XGBoost on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/XGBoost/Churn_Modelling.csv) for obtaining the best model and got an accuracy of 87 percent.
 
+## Deep Learning
 ### Day 30 :- Artificial Neural Networks
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
 **Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
