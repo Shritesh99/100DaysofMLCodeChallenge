@@ -267,7 +267,7 @@
 
 ### Day 32 :- Self Organizing Maps (SOM)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e7b6013113d267beee1e9d5143f06bdeb276796e)
-**Today's work**:- I have created Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when it applies for a cridit card application. I use a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) and obtained the following Self Organizing Map.
+**Today's work**:- I have created Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the following Self Organizing Map.
 
 <p align="center">
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
@@ -275,7 +275,7 @@
 
 ### Day 33 :- Going from Supervised to Unsupervised Learning
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/1c2e7bc6b2d0efbb2259803110fdfc4389a5dd00)
-**Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when it applies for a cridit card application. I use a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) and obtained the following Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
+**Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
 
 ### Day 34 :- Boltzmann Machine
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/26f9518d61312d8e9d6b03b6d488576ba3f48c5a)
