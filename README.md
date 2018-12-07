@@ -287,6 +287,6 @@
 
 ## Project :- Chatbot
 
-## Day 35 to 45 :- 
+## Day 36 to 45 :- 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural Language Processing model in which I have used Cornell Movie-Dialogs Dataset which consist of 220,579 conversational exchanges between 10,292 pairs of movie characters which involves 9,035 characters from 617 movies.
