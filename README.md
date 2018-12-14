@@ -257,7 +257,7 @@
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/930b281bfc8948f5bdaf7e0c2ea15815cc94bce1)
 **Today's work**:- I have created Convolutional Neural Network for predicting weather the image is of cat or dog using 5000 images of both(4000 training and 1000 test) and got an Accuracy of 85 percent. I first applied the convolution operation with ReLU as activation function on each image then, applied pooling step and then flatterened the result and fed it into the Neural Network and obtained the above prediction successfully.
 
-### Day 31 :- Recurrent Neural Networks(CNN)
+### Day 32 :- Recurrent Neural Networks(CNN)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4cf45f44910502ee2534cff80db01a56797cc5ff)
 **Today's work**:- I have created Recurrent Neural Network for predicting weather the google stock price of 2017 using previous 3 months data to pridict next day's stock price. I first applied Sequential Kreas model with 50 inputs neurons then 3 hidden layers of 50 neurons each and finally one output layer of one neuron , finally obtained the following graph.
 
@@ -265,7 +265,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Recurrent_Neural_Networks(RNN)/stock%20prediction.png"/>
 </p>
 
-### Day 32 :- Self Organizing Maps (SOM)
+### Day 33 :- Self Organizing Maps (SOM)
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e7b6013113d267beee1e9d5143f06bdeb276796e)
 **Today's work**:- I have created Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the following Self Organizing Map.
 
@@ -273,25 +273,25 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
 </p>
 
-### Day 33 :- Going from Supervised to Unsupervised Learning
+### Day 34 :- Going from Supervised to Unsupervised Learning
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/1c2e7bc6b2d0efbb2259803110fdfc4389a5dd00)
 **Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
 
-### Day 34 :- Boltzmann Machine
+### Day 35 :- Boltzmann Machine
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/26f9518d61312d8e9d6b03b6d488576ba3f48c5a)
 **Today's work**:- I have created UnSupervised movie recommendation system for recommending a movie to a new user using Deep Boltzmann Machine.
 
-### Day 35 :- AutoEncoders
+### Day 36 :- AutoEncoders
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/7a1907e63ca6591483bb43e34b0cec50951f0f60)
 **Today's work**:- I have created UnSupervised movie recommendation system for recommending a movie to a new user using AutoEncoders.
 
 ## Project :- Chatbot
 
-### Day 36 to 40 :- 
+### Day 37 to 40 :- 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural Language Processing model in which I have used Cornell Movie-Dialogs Dataset which consist of 220,579 conversational exchanges between 10,292 pairs of movie characters which involves 9,035 characters from 617 movies.
 
-## Computer Vision :-
+## Computer Vision
 ### Day 41:- Face Detection
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
