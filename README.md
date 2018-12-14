@@ -287,6 +287,15 @@
 
 ## Project :- Chatbot
 
-## Day 36 to 40 :- 
+### Day 36 to 40 :- 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural Language Processing model in which I have used Cornell Movie-Dialogs Dataset which consist of 220,579 conversational exchanges between 10,292 pairs of movie characters which involves 9,035 characters from 617 movies.
+
+## Computer Vision :-
+### Day 41:- Face Detection
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
+**Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
+
+### Day 42:- Smile Detection
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/082f4ab1c7156e888b11b8af7e0790957206da7c)
+**Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
