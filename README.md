@@ -297,5 +297,5 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
 
 ### Day 42:- Smile Detection
-#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/082f4ab1c7156e888b11b8af7e0790957206da7c)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c67e4df2e27fc4f0cdd4df4e325c483b957e58fb)
 **Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
