@@ -78,7 +78,7 @@
 </p>
 
 ### Day 8 :- R square and Estimated R square
-**Today's work**:- I have learnt about the R square and Estimated R square and also find it on the the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) by various studied Algorithms till now. Also studied about the pros and cons of various algorithms studied till now.
+**Today's work**:- I have learnt about the R square and Estimated R square and also find it on the the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Regression/Random-Forest-Regression/Position_Salaries.csv) by various studied algorithms till now. I also studied about the pros and cons of various algorithms which I have studied till now.
 
 ### Day 9 :- Logistic Regression
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/739beb74a029a693f2e110f2951ed2a182f743bd)
@@ -292,6 +292,7 @@
 Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural Language Processing model in which I have used Cornell Movie-Dialogs Dataset which consist of 220,579 conversational exchanges between 10,292 pairs of movie characters which involves 9,035 characters from 617 movies.
 
 ## Computer Vision
+
 ### Day 41:- Face Detection
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
