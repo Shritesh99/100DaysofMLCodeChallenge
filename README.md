@@ -300,3 +300,7 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 ### Day 42:- Smile Detection
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c67e4df2e27fc4f0cdd4df4e325c483b957e58fb)
 **Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
+
+### Day 43:- Object Detection
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
+**Today's work**:- I have Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
