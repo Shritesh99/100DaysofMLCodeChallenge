@@ -7,3 +7,4 @@ Machine_Learning_A-Z.Rproj
 Deep-Learning/Convolutional-Neural-Networks(CNN)/dataset
 .gitignore
 *.pyc
+*.pth
