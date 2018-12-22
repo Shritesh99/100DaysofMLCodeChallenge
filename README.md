@@ -303,4 +303,9 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 
 ### Day 43:- Object Detection
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
-**Today's work**:- I have Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
+**Today's work**:- I have applied Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
+
+### Day 44:- Generative Adversarial Net(GAN)
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c14fa1efaa621e204a5970be0aab2e73ae0c76d2)
+**Today's work**:- I have created and defined the Generator for GAN which will generate images for discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
+
