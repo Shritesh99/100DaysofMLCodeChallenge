@@ -305,7 +305,14 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
 **Today's work**:- I have applied Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
 
-### Day 44:- Generative Adversarial Net(GAN)
+### Day 44:- Generative Adversarial Net(GAN) Generator
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c14fa1efaa621e204a5970be0aab2e73ae0c76d2)
-**Today's work**:- I have created and defined the Generator for GAN which will generate images for discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
+**Today's work**:- I have created and defined the Generator for GAN which will generate images for Discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
 
+### Day 44:- Generative Adversarial Net(GAN) Discriminator and Training
+#### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4a2af807cfb17a302ade878dff431f02d5f7eb78)
+**Today's work**:- I have created and defined the Discriminator for GAN which will distinguish between a real and a generated image as best as it could when an image is fed from generator. Further, I have trained the discriminator with real and generated image with backpropogated the total error and updating the weights of the neural network of the generator simultaneously. I simultaneously printed the losses and saving the real images and the generated images of the minibatch in every 100th step and finally obtained the following result.
+
+<p align="center">
+  <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/GANs/results/fake_samples_epoch_024.png"/>
+</p>
