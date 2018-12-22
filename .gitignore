@@ -8,3 +8,4 @@ Deep-Learning/Convolutional-Neural-Networks(CNN)/dataset
 .gitignore
 *.pyc
 *.pth
+Computer-Vision/GANs/data/
