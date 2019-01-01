@@ -83,7 +83,7 @@
 
 ### Day 9 to 10 :- 
 #### Check out the Analysis from [here](https://github.com/Shritesh99/Board_Game_Review_Predictions/blob/master/Board%20Game%20Review%20Prediction.ipynb)
-I have done a project for board game review prediction using regression on the following [dataset](https://github.com/Shritesh99/Board_Game_Review_Predictions/blob/master/games.csv) with all knowledge or regresssion and data preprocessing obtained till now.
+I have done a project for board game review prediction using regression on the following [dataset](https://github.com/Shritesh99/Board_Game_Review_Predictions/blob/master/games.csv) with all knowledge of regresssion and data preprocessing obtained till now.
 
 ### Day 11 :- Logistic Regression
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/739beb74a029a693f2e110f2951ed2a182f743bd)
