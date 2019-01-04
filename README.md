@@ -287,37 +287,45 @@ I have done a project for credit card fraud detection using classification with 
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Natural-Language-Processing/Restaurant_Reviews.tsv) for getting the best sparse matrix for pridicting weather the customer likes the food in a restaurant based on their reviews. I first removed the unnecessory words using NLP then obtained a sparse matrix of maximum 1500 features. I then, applied the Naive Bayes Classification algorithm and Random Forest Classification algorithm to pridict weather the customer likes the food or not.
 
-### Day 30 :- Principal Component Analysis (PCA)
+## Project :- Natural Language Processing
+
+### Day 30 to 32 :-
+
+#### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Natural_Language_Processing/blob/master/Natural%20Language%20Processing.ipynb) or deployment [here](http://shritesh99.github.io/Natural_Language_Processing)
+
+I have done a project of Natural Language Processing in movies review corpus from nlkt library in which I have classified weather a review is possitive or negative using Support Vector Classifier.
+
+### Day 33 :- Principal Component Analysis (PCA)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/a81c9cd007cf96dfc354f4851325572b72742034)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Principal_Component_Analysis(PCA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Principal Component Analysis Method which works on varience of feture. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
 
-### Day 31 :- Linear Discriminant Analysis (LDA)
+### Day 34 :- Linear Discriminant Analysis (LDA)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/915391fad887f3fba133d5030545bc415f70aa82)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Linear_Discriminant_Analysis(LDA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Linear Discriminant Analysis Method. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
 
-### Day 32 :- Kernal PCA
+### Day 35 :- Kernal PCA
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ce1a923da91dc9b547ef09878f829ceb4413efb8)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Kernel_PCA/Social_Network_Ads.csv) to reduce the dataset to lesser no of fetures based on Kernal PCA of Gaussian Kernal. Then, I applied Logistic Regression to pridict the weather a person buy's a SUV car for a company.
 
-### Day 33 :- K-Fold Cross Validations
+### Day 36 :- K-Fold Cross Validations
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fa5fac9777818f5d0cf6941c15314f4f3e3fd46)
 
 **Today's work**:- I have Applied K-Fold Cross Validations Technique on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for dividing the dataset into 10 parts to get the best model and got an average accuraccy of 91 percent.
 
-### Day 34 :- Grid Search
+### Day 37 :- Grid Search
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/cd46a10b0c494cd05f816ee678335dce2427f540)
 
 **Today's work**:- I have Applied Grid Search Algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for getting the best model. I first applied linear kernal with penalities 1, 10, 100, 1000 then applied rbf kernal with penalities 1, 10, 100, 1000 and got an average accuraccy of 90 percent.
 
-### Day 35 :- XGBoost
+### Day 38 :- XGBoost
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/70b8650109a62d26fad7f5565b776b638bc5bea8)
 
@@ -325,19 +333,19 @@ I have done a project for credit card fraud detection using classification with 
 
 ## Deep Learning
 
-### Day 36 :- Artificial Neural Networks
+### Day 39 :- Artificial Neural Networks
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
 
 **Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
 
-### Day 37 :- Convolutional Neural Networks(CNN)
+### Day 40 :- Convolutional Neural Networks(CNN)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/930b281bfc8948f5bdaf7e0c2ea15815cc94bce1)
 
 **Today's work**:- I have created Convolutional Neural Network for predicting weather the image is of cat or dog using 5000 images of both(4000 training and 1000 test) and got an Accuracy of 85 percent. I first applied the convolution operation with ReLU as activation function on each image then, applied pooling step and then flatterened the result and fed it into the Neural Network and obtained the above prediction successfully.
 
-### Day 38 :- Recurrent Neural Networks(CNN)
+### Day 41 :- Recurrent Neural Networks(CNN)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4cf45f44910502ee2534cff80db01a56797cc5ff)
 
@@ -347,7 +355,7 @@ I have done a project for credit card fraud detection using classification with 
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Recurrent_Neural_Networks(RNN)/stock%20prediction.png"/>
 </p>
 
-### Day 39 :- Self Organizing Maps (SOM)
+### Day 42 :- Self Organizing Maps (SOM)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e7b6013113d267beee1e9d5143f06bdeb276796e)
 
@@ -357,19 +365,19 @@ I have done a project for credit card fraud detection using classification with 
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
 </p>
 
-### Day 40 :- Going from Supervised to Unsupervised Learning
+### Day 43 :- Going from Supervised to Unsupervised Learning
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/1c2e7bc6b2d0efbb2259803110fdfc4389a5dd00)
 
 **Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
 
-### Day 41 :- Boltzmann Machine
+### Day 44 :- Boltzmann Machine
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/26f9518d61312d8e9d6b03b6d488576ba3f48c5a)
 
 **Today's work**:- I have created UnSupervised movie recommendation system for recommending a movie to a new user using Deep Boltzmann Machine.
 
-### Day 42 :- AutoEncoders
+### Day 45 :- AutoEncoders
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/7a1907e63ca6591483bb43e34b0cec50951f0f60)
 
@@ -377,7 +385,7 @@ I have done a project for credit card fraud detection using classification with 
 
 ## Project :- Chatbot
 
-### Day 43 to 45 :-
+### Day 46 to 48 :-
 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 
@@ -385,31 +393,31 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 
 ## Computer Vision
 
-### Day 46:- Face Detection
+### Day 49:- Face Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
 
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
 
-### Day 47:- Smile Detection
+### Day 50:- Smile Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c67e4df2e27fc4f0cdd4df4e325c483b957e58fb)
 
 **Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
 
-### Day 48:- Object Detection
+### Day 51:- Object Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
 
 **Today's work**:- I have applied Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
 
-### Day 49:- Generative Adversarial Net(GAN) Generator
+### Day 52:- Generative Adversarial Net(GAN) Generator
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c14fa1efaa621e204a5970be0aab2e73ae0c76d2)
 
 **Today's work**:- I have created and defined the Generator for GAN which will generate images for Discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
 
-### Day 50:- Generative Adversarial Net(GAN) Discriminator and Training
+### Day 53:- Generative Adversarial Net(GAN) Discriminator and Training
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4a2af807cfb17a302ade878dff431f02d5f7eb78)
 
