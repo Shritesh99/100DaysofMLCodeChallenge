@@ -1,5 +1,7 @@
 # 100 Days of ML Code Challenge
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4ac7402eda64ed7ae80b357811ddf0e)](https://app.codacy.com/app/shritesh.sj/100DaysofMLCodeChallenge?utm_source=github.com&utm_medium=referral&utm_content=Shritesh99/100DaysofMLCodeChallenge&utm_campaign=Badge_Grade_Dashboard)
+
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
 <p align="center">
