@@ -413,13 +413,21 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 
 **Today's work**:- I have applied Single Shot Detection(SSD) algorithmn for object detection on [funny_dog.mp4](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Object-Detection/funny_dog.mp4) for detecting objects in this video.
 
-### Day 52:- Generative Adversarial Net(GAN) Generator
+## Project :- Object recognition on the CIFAR-10 image dataset of 2015.
+
+### Day 52 to 54 :-
+
+#### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Object_Detection_100DaysOfMLCode/blob/master/Object%20Detection.ipynb)
+
+**Today's work**:- In this project, I have deployed a convolutional neural network (CNN) for object recognition. More specifically, I have used the All-CNN network published in the 2015 ICLR paper, "Striving For Simplicity: The All Convolutional Net". This paper can be found at the following [link](https://arxiv.org/pdf/1412.6806.pdf)
+
+### Day 55:- Generative Adversarial Net(GAN) Generator
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c14fa1efaa621e204a5970be0aab2e73ae0c76d2)
 
 **Today's work**:- I have created and defined the Generator for GAN which will generate images for Discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
 
-### Day 53:- Generative Adversarial Net(GAN) Discriminator and Training
+### Day 56:- Generative Adversarial Net(GAN) Discriminator and Training
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4a2af807cfb17a302ade878dff431f02d5f7eb78)
 
