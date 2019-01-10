@@ -417,6 +417,8 @@ Worked on a chatbot project based on Sequence to Sequence (seq2seq) Deep Natural
 
 ### Day 52 to 54 :-
 
+### Check out the project [here](http://shritesh99.github.io/Object_Detection_100DaysOfMLCode/)
+
 #### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Object_Detection_100DaysOfMLCode/blob/master/Object%20Detection.ipynb)
 
 **Today's work**:- In this project, I have deployed a convolutional neural network (CNN) for object recognition. More specifically, I have used the All-CNN network published in the 2015 ICLR paper, "Striving For Simplicity: The All Convolutional Net". This paper can be found at the following [link](https://arxiv.org/pdf/1412.6806.pdf)
