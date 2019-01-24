@@ -234,7 +234,19 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2043.jpg"/>
 </p>
 
-### Day 24 :- Hierarchical-Clustering
+## Project :- K Means Clustering for Imagery Analysis
+
+### Day 24 to 26 :-
+
+### Check out the project [here](http://shritesh99.github.io/Imagery_Analysis/)
+
+#### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Imagery_Analysis/blob/master/Imagery%20Analysis.ipynb)
+
+**Project's work**:- In this project, we will use a K-means algorithm to perform image classification. Clustering isn't limited to the consumer information and population sciences, it can be used for imagery analysis as well. Leveraging Scikit-learn and the MNIST dataset, we will investigate the use of K-means clustering for computer vision.
+
+For this project, we will be using the MNIST dataset. It is available through keras, a deep learning library we have used in previous tutorials. Although we won't be using other features of keras today, it will save us time to import mnist from this library. It is also available through the tensorflow library or for download at http://yann.lecun.com/exdb/mnist/.
+
+### Day 27 :- Hierarchical-Clustering
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e29b2be7943c3554294424683aff606ade83c1c2)
 
@@ -249,19 +261,19 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Redme-images/Day%2054.jpg"/>
 </p>
 
-### Day 25 :- Apiori Association Rule Learning Algorithm
+### Day 28 :- Apiori Association Rule Learning Algorithm
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fcdcba2ad6011572538ad565d709c952fffbeb9)
 
 **Today's work**:- I have applied Apiori Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Apriori/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the revenue.
 
-### Day 26 :- Eclat Association Rule Learning Algorithm
+### Day 29 :- Eclat Association Rule Learning Algorithm
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/78328448b5d7a0fd556e163d2f3717c46cdd28c7)
 
 **Today's work**:- I have applied Eclat Association Rule Learning algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Association-Rule-Learning/Eclat/Market_Basket_Optimisation.csv) to pridict the optimized placement of objects in a supermarket for maximizing the sale.
 
-### Day 27 :- Upper Confidence Bound (UCB)
+### Day 30 :- Upper Confidence Bound (UCB)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/2c0df4850c33303c778efdb634cf9c336919fb47)
 
@@ -272,7 +284,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Upper-Confidence-Bound(UCB)/UCB_Algorithm_Slide.png"/>
 </p>
 
-### Day 28 :- Thompson Sampling
+### Day 31 :- Thompson Sampling
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/21cb8ca49de842a2505ae06acf9dc676ec22c20d)
 
@@ -283,7 +295,7 @@
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Reinforcement-Learning/Thompson-Sampling/Thompson_Sampling_Slide.png"/>
 </p>
 
-### Day 29 :- Natural Language Processing
+### Day 32 :- Natural Language Processing
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/feac237817741b08fbf7e775abf2c857d5470671)
 
@@ -291,7 +303,7 @@
 
 ## Project :- Text Classification with NLTK and Scikit-learn
 
-### Day 30 to 32 :-
+### Day 33 to 35 :-
 
 #### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Text_Classification/blob/master/Text%20Classification.ipynb) or deployment [here](http://shritesh99.github.io/Text_Classification/)
 
@@ -302,43 +314,43 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Project :- Natural Language Processing
 
-### Day 33 to 35 :-
+### Day 36 to 38 :-
 
 #### Check out the Jupyter Notebook from [here](https://github.com/Shritesh99/Natural_Language_Processing/blob/master/Natural%20Language%20Processing.ipynb) or deployment [here](http://shritesh99.github.io/Natural_Language_Processing)
 
 **Project's work**:- I have done a project of Natural Language Processing in movies review corpus from nlkt library in which I have classified weather a review is possitive or negative using Support Vector Classifier.
 
-### Day 36 :- Principal Component Analysis (PCA)
+### Day 39 :- Principal Component Analysis (PCA)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/a81c9cd007cf96dfc354f4851325572b72742034)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Principal_Component_Analysis(PCA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Principal Component Analysis Method which works on varience of feture. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
 
-### Day 37 :- Linear Discriminant Analysis (LDA)
+### Day 40 :- Linear Discriminant Analysis (LDA)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/915391fad887f3fba133d5030545bc415f70aa82)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Linear_Discriminant_Analysis(LDA)/Wine.csv) which has 12 features to reduce it to lesser no of fetures based on Linear Discriminant Analysis Method. Then, I applied Support Vector Machine algorithm to pridict the customer segment based on their wine selection.
 
-### Day 38 :- Kernal PCA
+### Day 41 :- Kernal PCA
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/ce1a923da91dc9b547ef09878f829ceb4413efb8)
 
 **Today's work**:- I have processed the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Dimensionality-Reduction/Kernel_PCA/Social_Network_Ads.csv) to reduce the dataset to lesser no of fetures based on Kernal PCA of Gaussian Kernal. Then, I applied Logistic Regression to pridict the weather a person buy's a SUV car for a company.
 
-### Day 39 :- K-Fold Cross Validations
+### Day 42 :- K-Fold Cross Validations
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/8fa5fac9777818f5d0cf6941c15314f4f3e3fd46)
 
 **Today's work**:- I have Applied K-Fold Cross Validations Technique on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for dividing the dataset into 10 parts to get the best model and got an average accuraccy of 91 percent.
 
-### Day 40 :- Grid Search
+### Day 43 :- Grid Search
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/cd46a10b0c494cd05f816ee678335dce2427f540)
 
 **Today's work**:- I have Applied Grid Search Algorithm on the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Model-Selection-%26-Boosting/Model-Selection/Social_Network_Ads.csv) for getting the best model. I first applied linear kernal with penalities 1, 10, 100, 1000 then applied rbf kernal with penalities 1, 10, 100, 1000 and got an average accuraccy of 90 percent.
 
-### Day 41 :- XGBoost
+### Day 44 :- XGBoost
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/70b8650109a62d26fad7f5565b776b638bc5bea8)
 
@@ -346,19 +358,19 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Deep Learning
 
-### Day 42 :- Artificial Neural Networks
+### Day 45 :- Artificial Neural Networks
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4fcb2603db72c6c027a37a9b7c441897785f06a7)
 
 **Today's work**:- I have created Artificial Neural Network for the following [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Artificial-Neural-Networks(ANN)/Churn_Modelling.csv) for predicting weather the customer of the bank exited or not by creating a Artificial Neural Network of one input layer having 6 nodes, one hidden layer of 6 nodes and one output layer having 1 nodes. I further obtained an accuracy of 86 precent by obtaining a confusion matrix.
 
-### Day 43 :- Convolutional Neural Networks(CNN)
+### Day 46 :- Convolutional Neural Networks(CNN)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/930b281bfc8948f5bdaf7e0c2ea15815cc94bce1)
 
 **Today's work**:- I have created Convolutional Neural Network for predicting weather the image is of cat or dog using 5000 images of both(4000 training and 1000 test) and got an Accuracy of 85 percent. I first applied the convolution operation with ReLU as activation function on each image then, applied pooling step and then flatterened the result and fed it into the Neural Network and obtained the above prediction successfully.
 
-### Day 44 :- Recurrent Neural Networks(CNN)
+### Day 47 :- Recurrent Neural Networks(CNN)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4cf45f44910502ee2534cff80db01a56797cc5ff)
 
@@ -368,7 +380,7 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Recurrent_Neural_Networks(RNN)/stock%20prediction.png"/>
 </p>
 
-### Day 45 :- Self Organizing Maps (SOM)
+### Day 48 :- Self Organizing Maps (SOM)
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/e7b6013113d267beee1e9d5143f06bdeb276796e)
 
@@ -378,19 +390,19 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
   <img src="https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/img.png"/>
 </p>
 
-### Day 46 :- Going from Supervised to Unsupervised Learning
+### Day 49 :- Going from Supervised to Unsupervised Learning
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/1c2e7bc6b2d0efbb2259803110fdfc4389a5dd00)
 
 **Today's work**:- Yesterday, I have created Supervised Self Organizing Maps (SOM) on [dataset](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/Credit_Card_Applications.csv) for predicting weather the user is fraud or not when he applies for a cridit card application. I have used a third party library [minisom](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Deep-Learning/Self-Organizing-Maps%20(SOM)/minisom.py) to obtain the Self Organizing Map. Today, I have made changes to existing one and takeing it from Supervised to UnSupervised Learning by creating a Sequential Kreas Neural Network with adam optimizer.
 
-### Day 47 :- Boltzmann Machine
+### Day 50 :- Boltzmann Machine
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/26f9518d61312d8e9d6b03b6d488576ba3f48c5a)
 
 **Today's work**:- I have created UnSupervised movie recommendation system for recommending a movie to a new user using Deep Boltzmann Machine.
 
-### Day 48 :- AutoEncoders
+### Day 51 :- AutoEncoders
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/7a1907e63ca6591483bb43e34b0cec50951f0f60)
 
@@ -398,7 +410,7 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Project :- Chatbot
 
-### Day 49 to 51 :-
+### Day 52 to 54 :-
 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 
@@ -406,19 +418,19 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Computer Vision
 
-### Day 52:- Face Detection
+### Day 55:- Face Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
 
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
 
-### Day 53:- Smile Detection
+### Day 56:- Smile Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c67e4df2e27fc4f0cdd4df4e325c483b957e58fb)
 
 **Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
 
-### Day 54:- Object Detection
+### Day 57:- Object Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
 
@@ -426,7 +438,7 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Project :- Object recognition on the CIFAR-10 image dataset of 2015.
 
-### Day 55 to 57 :-
+### Day 58 to 60 :-
 
 ### Check out the project [here](http://shritesh99.github.io/Object_Detection_100DaysOfMLCode/)
 
@@ -436,7 +448,7 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 ## Project :- The Super Resolution Convolutional Neural Network for Image Restoration.
 
-### Day 58 to 60 :-
+### Day 61 to 63 :-
 
 ### Check out the project [here](http://shritesh99.github.io/Image_Super_Resolution/)
 
@@ -446,13 +458,13 @@ The data set we will be using comes from the UCI Machine Learning Repository. It
 
 To accomplish this goal, we will be deploying the super-resolution convolution neural network (SRCNN) using Keras. This network was published in the paper, "Image Super-Resolution Using Deep Convolutional Networks" by Chao Dong, et al. in 2014. You can read the full paper at https://arxiv.org/abs/1501.00092.
 
-### Day 61:- Generative Adversarial Net(GAN) Generator
+### Day 64:- Generative Adversarial Net(GAN) Generator
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c14fa1efaa621e204a5970be0aab2e73ae0c76d2)
 
 **Today's work**:- I have created and defined the Generator for GAN which will generate images for Discriminator to distinguish between a real and a generated image as best as it could when an image is fed.
 
-### Day 62:- Generative Adversarial Net(GAN) Discriminator and Training
+### Day 65:- Generative Adversarial Net(GAN) Discriminator and Training
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/4a2af807cfb17a302ade878dff431f02d5f7eb78)
 
