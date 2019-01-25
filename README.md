@@ -420,7 +420,7 @@ During this project, we will perform K Means clustering on the well known Iris d
 
 ## Project :- Chatbot
 
-### Day 55 to 57 :-
+### Day 55 to 58 :-
 
 #### Check out the code from [here](https://github.com/Shritesh99/Chatbot/blob/master/Chatbot.ipynb)
 
@@ -428,19 +428,19 @@ During this project, we will perform K Means clustering on the well known Iris d
 
 ## Computer Vision
 
-### Day 58:- Face Detection
+### Day 59:- Face Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/607b3b930110ea6247dd10a016c03861d6400f66)
 
 **Today's work**:- I have applied opencv for detecting faces using Cascade Classifier with [haarcascade_frontalface_default.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/haarcascade_frontalface_default.xml) as detector.
 
-### Day 59:- Smile Detection
+### Day 60:- Smile Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/c67e4df2e27fc4f0cdd4df4e325c483b957e58fb)
 
 **Today's work**:- I have applied opencv for detecting smile in face using Cascade Classifier with [haarcascade_smile.xml](https://github.com/Shritesh99/100DaysofMLCodeChallenge/blob/master/Computer-Vision/Face-Recognition/Smile-Detector/haarcascade_smile.xml) as detector.
 
-### Day 60:- Object Detection
+### Day 61:- Object Detection
 
 #### Check out the code from [here](https://github.com/Shritesh99/100DaysofMLCodeChallenge/commit/94aabdb8be14acf21b7861f8087792e1273a869f)
 
@@ -448,7 +448,7 @@ During this project, we will perform K Means clustering on the well known Iris d
 
 ## Project :- Object recognition on the CIFAR-10 image dataset of 2015.
 
-### Day 61 to 64 :-
+### Day 62 to 65 :-
 
 ### Check out the project [here](http://shritesh99.github.io/Object_Detection_100DaysOfMLCode/)
 
@@ -458,7 +458,7 @@ During this project, we will perform K Means clustering on the well known Iris d
 
 ## Project :- The Super Resolution Convolutional Neural Network for Image Restoration.
 
-### Day 65 to 68 :-
+### Day 66 to 68 :-
 
 ### Check out the project [here](http://shritesh99.github.io/Image_Super_Resolution/)
 
